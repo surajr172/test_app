@@ -9,7 +9,7 @@ public class firstcode {
 		System.out.println("as a software developer trainee");
 		System.out.println("welcome to the heaptrace technology");
 		System.out.println("i am woking in heaptrace technolgy");
-		System.out.println("as a software developer trainee");
+		System.out.println("as a software developer trainee");		
 	}
 
 }
