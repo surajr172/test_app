@@ -1,0 +1,15 @@
+git  is a version control system it used to store source code for a project and track the complete history all changes to that code it provides collaborative platform.it helps to developers for the project management and conflicting.
+
+common command in git :
+1. git init
+2. git add .
+3. git commit
+4. git config --list
+5. git branch
+6. git checkout
+7. git merge
+8. git push
+9. git pull
+10. git clone
+11.git status
+ 
